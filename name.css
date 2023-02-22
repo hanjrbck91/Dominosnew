@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.baxter{
+    width: 100%;
+    height: 2000px;
+    background-color: blue;
+}
+.nav1{
+    width: 60%;
+    height: 100px;
+    background-color: beige;
+    float: left;
+}
+.nav2{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(123, 123, 39);
+    float: left;
+
+}
+.img{
+    margin-left: 500px;
+    im
+}

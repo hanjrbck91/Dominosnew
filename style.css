@@ -1,0 +1,23 @@
+button{
+    background-color: darkcyan;
+    color: #fff;
+}
+#para1{
+    color: chocolate;
+}
+.new{
+    color: chocolate;
+    background-color: rgb(8, 50, 65);
+}
+.n{
+    background-color: rgb(2, 37, 80);
+}
+.new1{
+    width: 1900px;
+    height: 150px;
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: beige;
+    padding-left: 100px;
+}
